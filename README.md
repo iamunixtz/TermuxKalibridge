@@ -1,7 +1,7 @@
 # TermuxKalibridge 🛡️
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Made%20with-Bash-blue.svg)](https://www.python.org/)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Supported-green.svg)](https://www.kali.org/)
 ![GitHub issues](https://img.shields.io/github/issues/iamunixtz/TermuxKalibridge)
 ![GitHub stars](https://img.shields.io/github/stars/iamunixtz/TermuxKalibridge?style=social)
